@@ -1,92 +1,58 @@
-# Customer Shopping Behavior Analysis
-**End-to-End Data Analytics Project (Python · SQL · Power BI · Gamma)**
+# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
 
-## Inspiration & Reference
-This project was completed as a learning-based, hands-on replication inspired by the work of  
-**Amlan Mohanty**, whose tutorial clearly demonstrates a real-world data analytics workflow.
-
-- YouTube Tutorial: https://www.youtube.com/watch?v=5PrZvPeUw60  
-- Reference Repository: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI  
-
-Following this reference, I independently rebuilt the full pipeline to strengthen my understanding
-of SQL-based analysis, dashboard design, and business-oriented data storytelling.
+> **Inspired by & learned from:**  
+> Amlan Mohanty’s end-to-end analytics tutorial  
+> 🎥 https://www.youtube.com/watch?v=5PrZvPeUw60  
+> 💻 https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI  
+>  
+> This project was rebuilt independently as a hands-on learning exercise to strengthen my
+> understanding of real-world data analytics workflows.
 
 ---
 
-## Overview
-This project presents a complete **end-to-end data analytics workflow**, starting from raw customer
-transaction data and ending with actionable business insights delivered through dashboards,
-reports, and presentations.
+## 📌 Project Overview
+This project showcases a **complete, industry-style end-to-end data analytics workflow**, simulating
+how data analysts transform raw customer data into actionable business insights.
 
-The primary objective is to analyze customer shopping behavior using Python and SQL,
-and communicate insights effectively using Power BI.
+It covers the full pipeline:
+- Data preparation & exploration
+- SQL-based analysis
+- Business-focused dashboarding
+- Insight reporting and presentation
 
----
-
-## Dataset
-- **Name:** Customer Shopping Behavior Dataset
-- **Format:** CSV
-- **Description:** Transaction-level customer data including purchase behavior,
-  product categories, and spending patterns.
-
----
-
-## Tools & Technologies
-- **Python:** pandas, numpy, matplotlib, seaborn
-- **SQL:** PostgreSQL / MySQL / SQL Server
-- **Database:** Relational SQL Database
-- **Visualization:** Power BI
-- **Reporting:** PDF Report
-- **Presentation:** Gamma
+This project is ideal for:
+- 📊 Data Analyst / BI portfolio building
+- 📚 Learning Python, SQL, and Power BI together
+- 💼 Interview preparation for analytics roles
 
 ---
 
-## Project Steps
-
-### 1. Data Loading & Cleaning (Python)
-- Loaded raw data from CSV files
-- Cleaned and preprocessed data
-- Performed exploratory data analysis (EDA)
-- Created derived features for analysis
-
-### 2. SQL Analysis
-- Imported cleaned data into a SQL database
-- Wrote SQL queries to analyze:
-  - Customer spending behavior
-  - Purchase frequency
-  - Category-level trends
-
-### 3. Power BI Dashboard
-- Connected Power BI to the SQL database
-- Built an interactive dashboard with:
-  - Key performance indicators (KPIs)
-  - Customer segmentation
-  - Sales and category trends
-
-### 4. Reporting & Presentation
-- Summarized insights in a structured analytics report
-- Created a professional presentation using Gamma
+## 🔍 What’s Inside
+- **Python (EDA & Data Preparation):** Cleaning, transformation, and exploratory analysis  
+- **SQL (Business Analysis):** Customer behavior, spending patterns, and segmentation  
+- **Power BI (Visualization):** Interactive dashboard for decision-making  
+- **Report & Presentation:** Business insights summarized for stakeholders
 
 ---
 
-## Dashboard
-The Power BI dashboard enables:
-- High-level performance tracking
-- Customer behavior analysis
-- Data-driven decision support
+## 🛠️ How to Use
 
-**File:** `customer_behavior_dashboard.pbix`
+1. **Run Python Analysis**
+   - Open the Jupyter notebook
+   - Perform data cleaning and exploratory analysis
+
+2. **SQL Analysis**
+   - Load the processed data into a SQL database
+   - Execute queries from `customer_behavior_query.sql`
+
+3. **Power BI Dashboard**
+   - Open `customer_behavior_dashboard.pbix`
+   - Connect to the SQL database
+   - Refresh data to explore insights
 
 ---
 
-## Results & Insights
-- Identified high-value customer segments
-- Discovered key purchasing trends
-- Generated insights for targeted marketing strategies
-
----
-
-## Repository Structure
+## 📂 Repository Structure
 ├── data/
 │ └── customer_shopping_behavior.csv
 ├── sql/
@@ -102,23 +68,9 @@ The Power BI dashboard enables:
 
 ---
 
-## How to Run
-
-### Python
-```bash
-pip install pandas numpy matplotlib seaborn
-
-**SQL**
-Load data into your SQL database
-Run queries from customer_behavior_query.sql
-
-**Power BI**
-Open customer_behavior_dashboard.pbix
-Update database connection if needed
-Refresh data
-
-**Key Takeaway**
-This project demonstrates my ability to build an end-to-end data analytics pipeline,
-integrating Python, SQL, and BI tools to deliver business-focused insights.
-
-
+## 🎯 Key Takeaway
+This project demonstrates my ability to:
+- Build an end-to-end analytics pipeline
+- Use Python and SQL for structured analysis
+- Design clear, business-oriented Power BI dashboards
+- Communicate insights effectively to non-technical stakeholders
