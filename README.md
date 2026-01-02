@@ -64,7 +64,7 @@ This project is ideal for:
 │   └── Customer Shopping Behavior Analysis.pdf
 ├── notebooks/
 │   └── data_analysis.ipynb
-└── README.md'''
+└── README.md```
 
 ---
 
