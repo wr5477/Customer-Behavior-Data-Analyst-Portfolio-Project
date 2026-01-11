@@ -112,5 +112,4 @@ This project demonstrates my ability to:
 ---
 
 ## 🔗 Reference
-This project was inspired by an end-to-end analytics tutorial by **Amlan Mohanty** and was rebuilt independently as a hands-on learning exercise.
-- Reference Repository: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
+This project was developed by referencing general ideas and approaches shared by [Amlan Mohanty]([https://www.youtube.com/@loresowhat](https://github.com/amlan)).
