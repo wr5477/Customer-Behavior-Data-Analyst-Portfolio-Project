@@ -113,6 +113,4 @@ This project demonstrates my ability to:
 
 ## 🔗 Reference
 This project was inspired by an end-to-end analytics tutorial by **Amlan Mohanty** and was rebuilt independently as a hands-on learning exercise.
-
-- Tutorial Video: https://www.youtube.com/watch?v=5PrZvPeUw60  
 - Reference Repository: https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI
