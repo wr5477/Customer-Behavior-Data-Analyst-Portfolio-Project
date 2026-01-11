@@ -109,7 +109,3 @@ This project demonstrates my ability to:
 - Design clear, business-oriented Power BI dashboards  
 - Communicate insights effectively to non-technical stakeholders  
 
----
-
-## 🔗 Reference
-This project was developed by referencing general ideas and approaches shared by [Amlan Mohanty](https://github.com/amlanmohanty1)
