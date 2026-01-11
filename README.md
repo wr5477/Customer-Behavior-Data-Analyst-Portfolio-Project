@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻 End-to-End Consumer Behavior Analysis
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end, industry-style data analytics workflow focused on understanding customer shopping behavior.  
